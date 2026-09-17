@@ -5,3 +5,9 @@
 https://github.com/oldcai/LazyTyper-releases
 https://github.com/BryceWG/BiBi-Keyboard
 加入一个批量上传、批量识别功能。
+
+【Bug/体验优化】转写结果文本区域缺少惯性滚动，滑动体验滞涩
+问题现象：
+在“转写结果”页面，下方的转写文本滚动区域目前是“手指移多少，内容走多少”，缺少阻尼与加速效果。手指快速划动（Fling/Swipe）离开屏幕后，内容立即静止，不会像系统原生列表那样依据初速度继续产生惯性滑行。
+预期效果：
+希望恢复/支持原生容器的惯性滚动（Momentum Scrolling）。用户快速滑屏时有加速度，松手后有自然的减速滑行体验。
