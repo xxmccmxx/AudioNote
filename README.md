@@ -4,7 +4,7 @@
 参考这两个项目
 https://github.com/oldcai/LazyTyper-releases
 https://github.com/BryceWG/BiBi-Keyboard
-加入一个批量上传、批量识别功能。
+支持批量上传、批量识别功能。
 
 【Bug/体验优化】转写结果文本区域缺少惯性滚动，滑动体验滞涩
 问题现象：
