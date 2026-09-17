@@ -4,3 +4,4 @@
 参考这两个项目
 https://github.com/oldcai/LazyTyper-releases
 https://github.com/BryceWG/BiBi-Keyboard
+加入一个批量上传、批量识别功能。
